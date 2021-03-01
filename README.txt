@@ -1,1 +1,1 @@
-Hello! This a library with few methods recreated from scratch - copying ideas from the loodash library.
+Hello! This is a library I built myself with a few methods to emulate a few lodash library methods.
